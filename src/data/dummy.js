@@ -503,7 +503,7 @@ export const employeesGrid = [
     template: gridEmployeeProfile,
     textAlign: "Left",
   },
-  { field: "Name", headerText: "", width: "0", textAlign: "Left" },
+  { field: "Name", headerText: "Name", width: "0", textAlign: "Left" },
   { field: "Title", headerText: "Job Title", width: "170", textAlign: "Left" },
   {
     field: "Role",
